@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=AlphaBeta
+comment0.text=\r\n\ La\ classe\ AlphaBeta\ contient\ La\ profondeur\ d'exploration\ et\ les\ methodes\ necessaires\ pour\ Calculer\ Alphabeta\r\n\ \r\n
+comment1.params=grille\ joueur
+comment1.target=int\ calculeColonneAJouer(Grille,\ Joueur)
+comment1.text=\r\n\ Renvoi\ la\ colonne\ a\ jouer\r\n
+comment2.params=grille\ joueur\ profondeur
+comment2.target=int\ alphabeta(Grille,\ Joueur,\ int)
+comment3.params=grille\ joueur\ profondeur\ alpha\ beta
+comment3.target=int\ min(Grille,\ Joueur,\ int,\ double,\ double)
+comment3.text=\r\n\ Applique\ la\ partie\ min,\ de\ minmax\r\n
+comment4.params=grille\ joueur\ profondeur\ alpha\ beta
+comment4.target=int\ max(Grille,\ Joueur,\ int,\ double,\ double)
+comment4.text=\r\n\ Applique\ la\ partie\ max\ de\ minmax\r\n
+numComments=5

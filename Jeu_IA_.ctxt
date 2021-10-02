@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Jeu_IA_
+comment0.text=\r\n\ La\ classe\ Jeu_IA\ contient\ une\ methode\ Play\r\n\ \r\n
+comment1.params=choix
+comment1.target=void\ Play(int)
+comment1.text=\r\n\ \ La\ methode\ Play\ commence\ une\ partie\ de\ Puissance\ 4\ \r\n\ @param\ choix\ \ correspond\ au\ type\ de\ la\ partie\r\n
+numComments=2
